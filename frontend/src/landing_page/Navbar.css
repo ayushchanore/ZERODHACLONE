@@ -1,0 +1,38 @@
+.navbar {
+  font-family: "Inter", sans-serif;
+}
+
+.navbar-brand img {
+  width: 120px !important;
+}
+
+.nav-link {
+  margin: 0 10px;
+  font-weight: 500;
+  color: #333 !important;
+}
+
+.nav-link:hover {
+  color: #387ed1 !important;
+}
+
+.button.login {
+  padding: 6px 18px;
+  border-radius: 6px;
+  border: none;
+  background: #387ed1;
+  color: white;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+.button.login:hover {
+  background: #1c5bbf;
+  transform: translateY(-1px);
+}
+
+.me-2 {
+  font-weight: 500;
+  color: #333;
+}
+
